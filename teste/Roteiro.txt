@@ -1,0 +1,55 @@
+No meu projeto, percebi que hoje em dia ainda faltam meios realmente acessíveis e organizados para contratar profissionais para pequenos serviços do dia a dia. Muitas pessoas continuam dependendo de indicações aleatórias, grupos de WhatsApp, anúncios sem padrão ou até precisam sair procurando pessoalmente alguém que possa ajudar.
+
+Pensando nisso, desenvolvi uma plataforma simples e prática que reúne vários profissionais em um único lugar. O objetivo é facilitar a vida das pessoas, permitindo que encontrem, comparem e entrem em contato direto com trabalhadores que oferecem serviços domésticos, de forma rápida, organizada e sem complicações.
+
+Nesta parte do meu projeto, apresento a tela inicial da plataforma, que foi pensada para ser simples, intuitiva e fácil de navegar. Logo no topo, o usuário encontra o nome do site e o menu principal, onde pode acessar as páginas de início, exploração, login ou até se cadastrar como profissional.
+
+No centro da página, há uma mensagem de boas-vindas explicando de forma clara o objetivo do site: ajudar as pessoas a encontrarem profissionais confiáveis para diferentes tipos de serviços. Também existe um botão que direciona o usuário para a lista de profissionais disponíveis.
+
+Mais abaixo, apresento uma seção que explica como a plataforma funciona. O texto descreve o processo de forma prática: o usuário escolhe o tipo de serviço que precisa, vê as categorias disponíveis, seleciona o profissional que mais combina com sua necessidade e entra em contato diretamente com ele. Tudo isso é acompanhado por imagens que tornam a experiência mais visual e agradável.
+
+Essa tela foi construída para transmitir confiança e facilitar a navegação, garantindo que qualquer pessoa consiga entender rapidamente como usar o site.
+
+🎤 Roteiro de Apresentação – Tela de Profissionais
+
+Agora eu vou apresentar a tela de exploração de profissionais da plataforma.
+
+Essa é a parte do site onde o usuário realmente começa a procurar o serviço que precisa. No topo da página, existe um título e um conjunto de filtros. Eles servem para facilitar a busca, permitindo que a pessoa selecione a categoria desejada, como Design, Reforma, Mecânica ou Saúde. Também existe a opção ‘Todos’, caso o usuário queira ver a lista completa.
+
+Logo abaixo, aparecem os cards dos profissionais. Cada card mostra uma foto ilustrativa, o nome, a área de atuação e uma pequena descrição do trabalho que aquela pessoa oferece. A ideia é que o usuário consiga visualizar rapidamente várias opções e comparar os perfis antes de abrir os detalhes completos.
+
+Essa tela foi pensada para ser clara, organizada e intuitiva, permitindo que qualquer pessoa encontre um profissional de forma rápida e prática.
+
+🎤 Roteiro de Apresentação – Tela de Detalhes do Profissional
+
+Agora chegamos à tela de detalhes do profissional, onde o usuário pode ver informações completas sobre a pessoa que ele pretende contratar.
+
+No topo, aparecem a foto ilustrativa, o nome do profissional, sua área de atuação e o valor cobrado por hora. Essa estrutura ajuda o usuário a entender rapidamente quem é o profissional e qual é o custo do serviço.
+
+Abaixo, há uma descrição mais detalhada sobre a especialidade do profissional. Essa área serve para explicar melhor o tipo de trabalho que ele realiza e destacar suas principais habilidades.
+
+Logo depois, temos a seção ‘Trabalhos Realizados’, que mostra alguns serviços que esse profissional já fez para outros clientes. Essa parte é importante porque aumenta a confiança do usuário, exibindo exemplos reais do trabalho.
+
+Por fim, existem dois botões: um para voltar à página anterior e outro para contratar o serviço. Eles deixam a navegação simples e direta, permitindo que o usuário tome uma decisão rapidamente.
+
+O objetivo dessa tela é fornecer todas as informações necessárias para que o usuário escolha o profissional ideal com segurança e clareza.
+
+🎤 Roteiro de Apresentação – Tela de Login e Cadastro
+
+Essa é a tela de login e cadastro da plataforma.
+Ela foi organizada em duas partes para facilitar o uso tanto de quem já tem conta quanto de quem está acessando pela primeira vez.
+
+Do lado esquerdo, temos a área de login. Aqui, o usuário insere seu email ou nome de usuário e sua senha para entrar na plataforma e continuar usando os serviços normalmente. É uma interface simples e direta, pensada para agilizar o acesso.
+
+Já do lado direito, temos a área de cadastro. Ela permite que novos usuários criem uma conta rapidamente. Para isso, basta preencher informações básicas como nome completo, email, telefone e criar uma senha. Tudo de uma forma clara e objetiva.
+
+Essa divisão facilita muito o entendimento e melhora a experiência do usuário, deixando o processo de entrar ou criar uma conta mais organizado e intuitivo.
+
+🎤 Roteiro Oral – Tela de Categoria do Profissional
+
+Depois que o profissional preenche seus dados básicos — como nome, telefone e email — ele é direcionado para esta tela, onde escolhe a sua categoria principal de atuação.
+
+O objetivo dessa etapa é organizar melhor os profissionais dentro da plataforma, permitindo que os clientes encontrem facilmente quem trabalha em áreas específicas. Aqui oferecemos quatro opções principais: Design, Reforma, Mecânica e Saúde.
+
+A interface é bem simples e intuitiva: o usuário seleciona apenas uma categoria e, em seguida, clica em ‘Continuar’. Só depois dessa escolha o cadastro segue adiante.
+Essa tela foi pensada para tornar o processo rápido, organizado e sem confusão, garantindo que cada profissional seja classificado corretamente dentro do sistema.

@@ -1,0 +1,75 @@
+Index:
+
+Interface simples, moderna e fácil de navegar.
+
+Menu superior com acesso rápido: Início, Explorar, Login e Cadastro de Profissional.
+
+Mensagem de boas-vindas explicando o propósito da plataforma.
+
+Botão “Explorar Profissionais” levando direto à lista de serviços.
+
+Seção explicando como o site funciona, de forma clara e objetiva.
+
+Imagens ilustrativas que tornam a experiência mais visual e intuitiva.
+
+Página pensada para transmitir confiança e facilitar o uso por qualquer pessoa.
+
+📌 Tela de Exploração de Profissionais – ProFinder
+
+Página onde o usuário encontra todos os profissionais disponíveis na plataforma.
+
+Filtros por categoria (Todos, Design, Reforma, Mecânica, Saúde) para facilitar a busca.
+
+Cada profissional aparece em um card com foto, nome, área de atuação e breve descrição.
+
+Layout organizado em grade, permitindo visualizar vários perfis ao mesmo tempo.
+
+Interface limpa e intuitiva, ajudando o usuário a comparar opções rapidamente.
+
+Foco em praticidade: o usuário vê o essencial antes de abrir o perfil completo.
+
+📌 Tela de Detalhes do Profissional – ProFinder
+
+Exibe informações completas sobre o profissional escolhido.
+
+Foto, nome, área de atuação e valor por hora.
+
+Descrição das especialidades e habilidades.
+
+Seção de “Trabalhos Realizados” com exemplos reais de serviços.
+
+Interface focada em confiança e tomada rápida de decisão.
+
+Botões para Voltar e Contratar Serviço, facilitando a navegação.
+
+📌 Tela de Login e Cadastro – ProFinder
+
+Tela dividida em duas partes: Login e Registro.
+
+Área de login para usuários já cadastrados acessarem suas contas.
+
+Campos simples: email/usuário e senha.
+
+Área de cadastro para novos usuários criarem uma conta rapidamente.
+
+Campos essenciais: nome completo, email, telefone e senha.
+
+Botões destacados para “Entrar” e “Registrar”, facilitando a navegação.
+
+Design minimalista e intuitivo, focado na praticidade.
+
+✅ 📌 SLIDE – Tela de Escolha da Categoria (Cadastro de Profissional)
+
+Etapa seguinte do cadastro de novos profissionais.
+
+Usuário já informou nome, número e email na tela anterior.
+
+Aqui ele escolhe sua categoria principal de atuação.
+
+Opções: Design, Reforma, Mecânica e Saúde.
+
+Seleção simples e objetiva, usando botões de escolha (radio).
+
+Botão “Continuar” só libera após escolher uma opção.
+
+Tela minimalista, clara e focada em usabilidade.
